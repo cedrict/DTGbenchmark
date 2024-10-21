@@ -1,0 +1,79 @@
+cp ~/work/flaps/vrms_DTGbenchmark.ascii .
+cp ~/work/flaps/total_mass_DTGbenchmark.ascii .
+
+cp ~/work/flaps/vel_R2.ascii_32_6 .
+cp ~/work/flaps/vel_R2.ascii_64_6 .
+cp ~/work/flaps/vel_R2.ascii_96_6 .
+cp ~/work/flaps/vel_R2.ascii_128_6 .
+cp ~/work/flaps/vel_R2.ascii_160_6 .
+cp ~/work/flaps/vel_R2.ascii_192_6 .
+cp ~/work/flaps/vel_R2.ascii_224_6 .
+cp ~/work/flaps/vel_R2.ascii_256_6 .
+
+cp ~/work/flaps/d_t_R1.ascii_32_6 .
+cp ~/work/flaps/d_t_R1.ascii_64_6 .
+cp ~/work/flaps/d_t_R1.ascii_96_6 .
+cp ~/work/flaps/d_t_R1.ascii_128_6 .
+cp ~/work/flaps/d_t_R1.ascii_160_6 .
+cp ~/work/flaps/d_t_R1.ascii_192_6 .
+cp ~/work/flaps/d_t_R1.ascii_224_6 .
+cp ~/work/flaps/d_t_R1.ascii_256_6 .
+
+cp ~/work/flaps/d_t_R2.ascii_32_6 .
+cp ~/work/flaps/d_t_R2.ascii_64_6 .
+cp ~/work/flaps/d_t_R2.ascii_96_6 .
+cp ~/work/flaps/d_t_R2.ascii_128_6 .
+cp ~/work/flaps/d_t_R2.ascii_160_6 .
+cp ~/work/flaps/d_t_R2.ascii_192_6 .
+cp ~/work/flaps/d_t_R2.ascii_224_6 .
+cp ~/work/flaps/d_t_R2.ascii_256_6 .
+
+cp ~/work/flaps/qqq_R1.ascii_32_6 .
+cp ~/work/flaps/qqq_R1.ascii_64_6 .
+cp ~/work/flaps/qqq_R1.ascii_96_6 .
+cp ~/work/flaps/qqq_R1.ascii_128_6 .
+cp ~/work/flaps/qqq_R1.ascii_160_6 .
+cp ~/work/flaps/qqq_R1.ascii_192_6 .
+cp ~/work/flaps/qqq_R1.ascii_224_6 .
+cp ~/work/flaps/qqq_R1.ascii_256_6 .
+
+cp ~/work/flaps/qqq_R2.ascii_32_6 .
+cp ~/work/flaps/qqq_R2.ascii_64_6 .
+cp ~/work/flaps/qqq_R2.ascii_96_6 .
+cp ~/work/flaps/qqq_R2.ascii_128_6 .
+cp ~/work/flaps/qqq_R2.ascii_160_6 .
+cp ~/work/flaps/qqq_R2.ascii_192_6 .
+cp ~/work/flaps/qqq_R2.ascii_224_6 .
+cp ~/work/flaps/qqq_R2.ascii_256_6 .
+
+cp ~/work/flaps/sr2_R2.ascii_32_6 .
+cp ~/work/flaps/sr2_R2.ascii_64_6 .
+cp ~/work/flaps/sr2_R2.ascii_96_6 .
+cp ~/work/flaps/sr2_R2.ascii_128_6 .
+cp ~/work/flaps/sr2_R2.ascii_160_6 .
+cp ~/work/flaps/sr2_R2.ascii_192_6 .
+cp ~/work/flaps/sr2_R2.ascii_224_6 .
+cp ~/work/flaps/sr2_R2.ascii_256_6 .
+
+cp ~/work/flaps/err_R2.ascii_32_6 .
+cp ~/work/flaps/err_R2.ascii_64_6 .
+cp ~/work/flaps/err_R2.ascii_96_6 .
+cp ~/work/flaps/err_R2.ascii_128_6 .
+cp ~/work/flaps/err_R2.ascii_160_6 .
+cp ~/work/flaps/err_R2.ascii_192_6 .
+cp ~/work/flaps/err_R2.ascii_224_6 .
+cp ~/work/flaps/err_R2.ascii_256_6 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
